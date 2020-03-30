@@ -109,13 +109,19 @@ height: 150px;
     background-repeat: no-repeat;
     background-size: cover;
   background-attachment: fixed;
-  height: 350px;
+  /* height: 350px; */
+  /* padding-top: 50px;
+  padding-bottom: 50px; */
+
 
 }
 
 .back_color {
     background-color: rgba(0, 255, 255, 0.493);
-    height: 350px;
+    /* height: 350px; */
+    padding-top: 50px;
+  padding-bottom: 150px;
+
 
 }
 
