@@ -245,7 +245,7 @@ transform: scale(1.3);
 /* OUR STATS */
   .iframe_size {
     width: 100%;
-    height: 400px;
+    height: 500px;
   }
 /* OUR STATS */
 
@@ -264,6 +264,35 @@ background-size: cover;
     height: 300px;
     /* width: 100%; */
 
+}
+
+.day_style {
+  color: red;
+  font-weight: bold;
+}
+
+.card_style {
+  /*box-shadow: 5px 10px 10px #888888;
+  */box-shadow: 2px 5px 5px #88888893;
+  border-radius:20px ;
+  -webkit-border-radius:20px ;
+  -moz-border-radius:20px ;
+  -ms-border-radius:20px ;
+  -o-border-radius:20px ;
+  transition: transform .8s;
+  -webkit-transition: transform .8s;
+  -moz-transition: transform .8s;
+  -ms-transition: transform .8s;
+  -o-transition: transform .8s;
+}
+
+
+.card_style:hover {
+  transform: scale(1.05);
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
 }
 /* CUSTOMER REVIEWS */
 
